@@ -1,0 +1,18 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "Api facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Guerrero",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "mocha": "^5.2.0",
+    "parser": "^0.1.4"
+  }
+}
